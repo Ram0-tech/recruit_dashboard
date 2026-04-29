@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "django-python": {
+      "source": "mindrally/skills",
+      "sourceType": "github",
+      "skillPath": "django-python/SKILL.md",
+      "computedHash": "384bd4adf0d4c6aeb76c6aa31d6dc2c65dbd1f5e828f1297fa663b1116c1f7b4"
+    }
+  }
+}
